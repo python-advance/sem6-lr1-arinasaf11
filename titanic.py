@@ -157,12 +157,10 @@ print('Среднее и медиана стоимости билета:')
 get_average_and_median(data['Fare'])
 print('\n')
 
-print('Самое популярное мужское имя на корабле', get_popular_male_name(data))
+print('Самое популярное мужское имя на корабле - ', get_popular_male_name(data))
 print('\n')
 
 print('Самые популярные имена старше 15 лет')
-#Самое популярное имя среди мужчин старше 15 лет
 print('У мужчин - ', get_popular_name(data,'male',15))
-#Самое популярное имя среди женщин старше 15 лет
 print('У женщин - ', get_popular_name(data,'female',15))
-#Самое популярное имя среди всех старше 15 лет
+
