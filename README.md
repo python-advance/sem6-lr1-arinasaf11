@@ -15,3 +15,7 @@
 8. Посчитайте среднюю цену за билет и медиану.
 9. Какое самое популярное мужское имя на корабле?
 10. Какие самые популярные мужское и женские имена людей, старше 15 лет на корабле?
+
+![](https://github.com/python-advance/sem6-lr1-arinasaf11/blob/master/Screenshot_1.jpg)
+![](https://github.com/python-advance/sem6-lr1-arinasaf11/blob/master/Screenshot_2.jpg)
+![](https://github.com/python-advance/sem6-lr1-arinasaf11/blob/master/Screenshot_3.jpg)
